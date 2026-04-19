@@ -1,0 +1,61 @@
+{
+    "version": "4.0.0",
+    "song": {
+        "title": "Heavenly jumpstlye",
+        "subTitle": "jack, Samual",
+        "author": "INNXCENCE, Sxilwix, and TWXNY"
+    },
+    "audio": {
+        "songFilename": "HEAVENLY JUMPSTYLE.wav",
+        "songDuration": 0.0,
+        "audioDataFilename": "AudioData.dat",
+        "bpm": 60.0,
+        "lufs": 0.0,
+        "previewStartTime": 0.0,
+        "previewDuration": 10.0
+    },
+    "songPreviewFilename": "HEAVENLY JUMPSTYLE.wav",
+    "coverImageFilename": "Screenshot 2026-04-19 142252 (1).png",
+    "environmentNames": [
+        "Monstercat2Environment"
+    ],
+    "colorSchemes": [],
+    "difficultyBeatmaps": [
+        {
+            "characteristic": "Standard",
+            "difficulty": "ExpertPlus",
+            "beatmapAuthors": {
+                "mappers": [
+                    "Jack"
+                ],
+                "lighters": [
+                    "Jack"
+                ]
+            },
+            "environmentNameIdx": 0,
+            "beatmapColorSchemeIdx": -1,
+            "noteJumpMovementSpeed": 0.0,
+            "noteJumpStartBeatOffset": 0.0,
+            "lightshowDataFilename": "Common.lightshow.dat",
+            "beatmapDataFilename": "ExpertPlus.beatmap.dat"
+        },
+        {
+            "characteristic": "Standard",
+            "difficulty": "Hard",
+            "beatmapAuthors": {
+                "mappers": [
+                    "jack"
+                ],
+                "lighters": [
+                    "jack"
+                ]
+            },
+            "environmentNameIdx": 0,
+            "beatmapColorSchemeIdx": -1,
+            "noteJumpMovementSpeed": 0.0,
+            "noteJumpStartBeatOffset": 0.0,
+            "lightshowDataFilename": "Common.lightshow.dat",
+            "beatmapDataFilename": "Hard.beatmap.dat"
+        }
+    ]
+}
